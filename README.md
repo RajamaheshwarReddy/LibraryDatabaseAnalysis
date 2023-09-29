@@ -1,9 +1,9 @@
 # LibraryDatabaseAnalysis
 Started by creating all the required tables with the required constraints which will helps to create the relationship between the tables. did analysis on Library Database
 things to consider while creating database:
-●	Add auto increment constraint in all the table’s primary keys.
-●	Make sure you are using cascade and while creating foreign keys in all the tables.
-●	While importing the data carefully check whether the column names are matching to csv file column names or not.
+1.	Add auto increment constraint in all the table’s primary keys.
+2.	Make sure you are using cascade and while creating foreign keys in all the tables.
+3.	While importing the data carefully check whether the column names are matching to csv file column names or not.
 
 
 # Data Model :
